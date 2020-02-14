@@ -20,8 +20,12 @@ This program creates a menu for a seafood restaurant and donates to the customer
 14. Efficiency and performance: consider design concepts into the program (5 points).
 
 # Program Instructions:
-
-
+1. Compile Restaurant.java in the command line.
+2. Run Restaurant.
+3. Follow the instructions.
+4. Order as many entrees as you'd like.
+5. Order as many desserts as you'd like.
+6. Choose your charity of choice that you would like to donate to.
 
 
 Created by Samuel Elizarraras
