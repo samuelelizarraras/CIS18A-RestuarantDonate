@@ -18,3 +18,11 @@ This program creates a menu for a seafood restaurant and donates to the customer
 12. Import packages: Include packages to streamline development. (10 points)
 13. Implement interfaces: at least more than one interface in the program (20 points).
 14. Efficiency and performance: consider design concepts into the program (5 points).
+
+# Program Instructions:
+
+
+
+
+Created by Samuel Elizarraras
+02/13/1998
