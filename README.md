@@ -28,5 +28,6 @@ This program creates a menu for a seafood restaurant and donates to the customer
 6. Choose your charity of choice that you would like to donate to.
 
 
+Version 1.0
 Created by Samuel Elizarraras
 02/13/2020
